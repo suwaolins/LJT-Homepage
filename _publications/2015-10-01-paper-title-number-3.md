@@ -2,13 +2,12 @@
 title: "In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation"
 authors: "Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He"
 venue: "ICML 2024"
-conference: "ICML 2024"
+category: conferences
 year: 2024
-date: 2015-10-01
+date: 2024-01-01
+citation: "Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation. ICML 2024."
 ---
 
 **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation.**
 
-Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He.
-
-ICML 2024.
+Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. ICML 2024.
